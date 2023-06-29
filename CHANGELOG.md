@@ -1,3 +1,7 @@
+## [3.0.0] - 29/06/2023
+
+- Fix "accent color" error
+
 ## [2.0.1] - 13/03/2021
 
 - Migrated to NNBD

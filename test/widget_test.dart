@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import '../lib/slide_to_act.dart';
+import '../lib/slide_to_act_reborn.dart';
 
 void main() {
   testWidgets('defaults', (tester) async {
